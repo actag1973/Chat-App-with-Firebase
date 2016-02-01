@@ -1,0 +1,16 @@
+PODS:
+  - ECSlidingViewController (2.0.3)
+  - Firebase (2.0.3)
+  - MBProgressHUD (0.9)
+
+DEPENDENCIES:
+  - ECSlidingViewController (~> 2.0.2)
+  - Firebase (>= 2.0.3)
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  ECSlidingViewController: e79fe856bfb1a99a39c995377a1943e50f7647eb
+  Firebase: bb958f1328ab902972d4419cbec232a989b5c613
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+
+COCOAPODS: 0.34.2

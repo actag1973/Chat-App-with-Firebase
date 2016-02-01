@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C01D9B58-E25A-4D97-B278-3762F4B0635D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>indlagt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE367B8FE988F5D42FA812293BD365EE2BDCA36F</key>
+		<string>https://mekanisme.git.beanstalkapp.com/ligesind-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>indlagt.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE367B8FE988F5D42FA812293BD365EE2BDCA36F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://mekanisme.git.beanstalkapp.com/ligesind-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE367B8FE988F5D42FA812293BD365EE2BDCA36F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE367B8FE988F5D42FA812293BD365EE2BDCA36F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>indlagt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
